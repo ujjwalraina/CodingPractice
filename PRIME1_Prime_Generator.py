@@ -14,6 +14,7 @@ while testcase != 0 :
                 break
             j = j + 1
     d = list(set(b)-set(c))
+    sort(d)
     for i in d:
         print(i)
     testcase = testcase - 1
