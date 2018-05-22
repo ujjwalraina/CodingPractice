@@ -19,15 +19,16 @@
     <SUITE FILE_PATH="coverage/CodingPractice$is_prime.coverage" NAME="is_prime Coverage Results" MODIFIED="1526442372955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingPractice$alone_in_couple.coverage" NAME="alone_in_couple Coverage Results" MODIFIED="1526496206240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingPractice$left_element.coverage" NAME="left_element Coverage Results" MODIFIED="1526983628394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodingPractice$max_sum_to_empty.coverage" NAME="max_sum_to_empty Coverage Results" MODIFIED="1527014324811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingPractice$3rd_largest_element_in_array.coverage" NAME="3rd_largest_element_in_array Coverage Results" MODIFIED="1526479665221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="left_element.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/left_element.py">
+      <file leaf-file-name="max_sum_to_empty.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/max_sum_to_empty.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="210">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -56,6 +57,7 @@
         <option value="$PROJECT_DIR$/alone_in_couple.py" />
         <option value="$PROJECT_DIR$/split_positive_negative.py" />
         <option value="$PROJECT_DIR$/left_element.py" />
+        <option value="$PROJECT_DIR$/max_sum_to_empty.py" />
       </list>
     </option>
   </component>
@@ -68,7 +70,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="491" />
     <option name="y" value="125" />
     <option name="width" value="1279" />
@@ -115,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.left_element">
+  <component name="RunManager" selected="Python.max_sum_to_empty">
     <configuration name="3rd_largest_element_in_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,25 +156,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="is_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodingPractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/is_prime.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="left_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,6 +170,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/left_element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="max_sum_to_empty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/max_sum_to_empty.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,19 +214,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.is_prime" />
       <item itemvalue="Python.3rd_largest_element_in_array" />
       <item itemvalue="Python.alone_in_couple" />
       <item itemvalue="Python.split_positive_negative" />
       <item itemvalue="Python.left_element" />
+      <item itemvalue="Python.max_sum_to_empty" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.max_sum_to_empty" />
         <item itemvalue="Python.left_element" />
         <item itemvalue="Python.split_positive_negative" />
         <item itemvalue="Python.alone_in_couple" />
         <item itemvalue="Python.3rd_largest_element_in_array" />
-        <item itemvalue="Python.is_prime" />
       </list>
     </recent_temporary>
   </component>
@@ -243,15 +245,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298193" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980783" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -265,6 +268,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,18 +320,21 @@
           <line>23</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/max_sum_to_empty.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/max_sum_to_empty.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="35" />
+      <option name="time" value="37" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alone_in_couple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3rd_largest_element_in_array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -584,7 +591,14 @@
     <entry file="file://$PROJECT_DIR$/left_element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_sum_to_empty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
