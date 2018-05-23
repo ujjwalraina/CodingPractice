@@ -12,6 +12,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CodingPractice$countries_at_war.coverage" NAME="countries_at_war Coverage Results" MODIFIED="1527089954975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodingPractice$import_ex.coverage" NAME="import ex Coverage Results" MODIFIED="1527055026385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingPractice$split_positive_negative.coverage" NAME="split_positive_negative Coverage Results" MODIFIED="1526582008374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingPractice$vowel_reverse.coverage" NAME="vowel_reverse Coverage Results" MODIFIED="1526437169031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CodingPractice$SMS.coverage" NAME="SMS Coverage Results" MODIFIED="1526290580796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -24,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="max_sum_to_empty.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/max_sum_to_empty.py">
+      <file leaf-file-name="countries_at_war.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/countries_at_war.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="330">
+              <caret line="34" column="15" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="34" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -58,6 +60,8 @@
         <option value="$PROJECT_DIR$/split_positive_negative.py" />
         <option value="$PROJECT_DIR$/left_element.py" />
         <option value="$PROJECT_DIR$/max_sum_to_empty.py" />
+        <option value="$PROJECT_DIR$/import ex.py" />
+        <option value="$PROJECT_DIR$/countries_at_war.py" />
       </list>
     </option>
   </component>
@@ -117,8 +121,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.max_sum_to_empty">
-    <configuration name="3rd_largest_element_in_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.countries_at_war">
+    <configuration name="countries_at_war" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,13 +135,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3rd_largest_element_in_array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/countries_at_war.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="alone_in_couple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="import ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +154,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alone_in_couple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,19 +218,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.3rd_largest_element_in_array" />
-      <item itemvalue="Python.alone_in_couple" />
       <item itemvalue="Python.split_positive_negative" />
       <item itemvalue="Python.left_element" />
       <item itemvalue="Python.max_sum_to_empty" />
+      <item itemvalue="Python.import ex" />
+      <item itemvalue="Python.countries_at_war" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.countries_at_war" />
+        <item itemvalue="Python.import ex" />
         <item itemvalue="Python.max_sum_to_empty" />
         <item itemvalue="Python.left_element" />
         <item itemvalue="Python.split_positive_negative" />
-        <item itemvalue="Python.alone_in_couple" />
-        <item itemvalue="Python.3rd_largest_element_in_array" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +249,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -320,35 +323,11 @@
           <line>23</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/max_sum_to_empty.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/max_sum_to_empty.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="37" />
+      <option name="time" value="47" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3rd_largest_element_in_array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alone_in_couple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3rd_largest_element_in_array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -574,13 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.5/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="323" selection-start-line="323" selection-end-line="323" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/split_positive_negative.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -597,8 +569,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/max_sum_to_empty.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countries_at_war.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="34" column="15" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="34" selection-end-column="15" />
         </state>
       </provider>
     </entry>
