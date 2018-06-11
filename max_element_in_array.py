@@ -22,9 +22,12 @@ def test():
 def main():
     a = input()
     a = a.split(" ")
+    print(a)
     a = map(float,a)
+    print(a)
     a = list(a)
     max = max_element(a)
     print(max)
 
-test()
+#test()
+main()
