@@ -29,5 +29,4 @@ def main():
     max = max_element(a)
     print(max)
 
-#test()
 main()
